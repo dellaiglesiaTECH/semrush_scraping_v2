@@ -1,0 +1,21 @@
+id,position,change,visits,pages_per_visit,bounce_rate,favicon,brand_name
+sciencedirect.com,1,0,18477453,1.6754,0.734,,ScienceDirect
+wiley.com,2,0,7101429,1.3985,0.7165,,John Wiley & Sons
+elsevier.com,3,3,4764444,2.1197,0.619,https://static.semrush.com/power-pages/media/favicons/elsevier-com-favicon-c0e62f50.png,Elsevier
+doi.org,4,4,4004119,1.3706,0.7999,,
+overleaf.com,5,-1,3938332,3.6963,0.3786,,Overleaf
+researchersjob.com,6,1,3807892,1.7127,0.6049,,
+mdpi.com,7,-2,3541448,1.4879,0.764,,
+arxiv.org,8,2,2659121,1.3094,0.8589,,
+phys.org,9,4,2106764,1.9833,0.6588,,
+rsc.org,10,1,2010142,1.4548,0.7793,,
+tnau.ac.in,11,4,1974189,2.7779,0.6239,,
+cecri.res.in,12,0,1926008,2.4181,0.2947,,
+scopus.com,13,4,1629458,3.0944,0.4691,,
+semanticscholar.org,14,2,1494719,1.2287,0.8857,,
+nrdc.org,15,0,1208027,1.1366,0.8651,,
+icmr.nic.in,16,14,869991,1.7143,0.7124,,
+csir.res.in,17,-14,864438,2.2286,0.6114,,
+scitechdaily.com,18,0,820291,1.2023,0.9005,,
+quantamagazine.org,19,0,725032,1.1112,0.8888,,
+expasy.org,20,0,696610,1.4659,0.7133,,

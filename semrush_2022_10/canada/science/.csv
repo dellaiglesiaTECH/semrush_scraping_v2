@@ -1,0 +1,21 @@
+id,position,change,visits,pages_per_visit,bounce_rate,favicon,brand_name
+polymtl.ca,1,3,3074787,2.7771,0.3886,,
+umontreal.ca,2,3,3024542,4.725,0.4199,,
+sciencedirect.com,3,-1,2699950,1.4033,0.7809,,ScienceDirect
+space.com,4,-1,1348012,3.8642,0.7654,,
+wiley.com,5,1,1119287,2.2272,0.7042,,John Wiley & Sons
+scitechdaily.com,6,1,1023874,1.1807,0.8709,,
+elsevier.com,7,3,656509,1.9926,0.6272,https://static.semrush.com/power-pages/media/favicons/elsevier-com-favicon-c0e62f50.png,Elsevier
+phys.org,8,1,647318,1.181,0.8846,,
+metoffice.gov.uk,9,8,594170,1.8439,0.6137,https://static.semrush.com/power-pages/media/favicons/www-metoffice-gov-uk-favicon-65df8828.jpg,Met Office
+understandingwar.org,10,1,551679,1.7274,0.3565,,
+newscientist.com,11,1,520771,1.1774,0.8784,,
+mdpi.com,12,2,375727,2.1873,0.6227,,
+overleaf.com,13,0,294495,3.3353,0.324,,Overleaf
+arxiv.org,14,2,284524,1.6164,0.7284,,
+brookings.edu,15,0,258874,1.7143,0.7058,,
+pnas.org,16,5,251816,1.3284,0.7636,,
+nsidc.org,17,0,245888,1.2628,0.7401,,
+plos.org,18,5,227154,1.3049,0.8762,,
+doi.org,19,8,214182,1.0267,0.9833,,
+aier.org,20,-19,206962,1.3932,0.6779,,

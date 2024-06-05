@@ -1,0 +1,21 @@
+id,position,change,visits,pages_per_visit,bounce_rate,favicon,brand_name
+openai.com,1,0,54024566,1.8412,0.6288,,
+office.com,2,0,32676165,2.0451,0.5777,https://static.semrush.com/power-pages/media/favicons/office-com-favicon-8f211ea6.ico,SmartSystem
+canva.com,3,0,20890445,2.8966,0.3988,,Canva
+github.com,4,1,17656853,1.9731,0.6655,https://static.semrush.com/power-pages/media/favicons/github-com-favicon-346e0947.png,GitHub
+wordpress.com,5,1,16866332,1.8834,0.7169,https://static.semrush.com/power-pages/media/favicons/wordpress-com-favicon-f9797465.png,WordPress
+paypal.com,6,-2,16765891,3.5073,0.2905,https://static.semrush.com/power-pages/media/favicons/paypal-com-favicon-ed31bc43.png,PayPal
+discord.com,7,0,14653591,2.0835,0.6431,https://static.semrush.com/power-pages/media/favicons/discord-com-favicon-07dca80a.ico,Discord
+adobe.com,8,0,12861686,1.7651,0.6851,https://static.semrush.com/power-pages/media/favicons/adobe-com-favicon-9940bec6.png,Adobe
+wetransfer.com,9,0,8970802,1.8478,0.6467,https://static.semrush.com/power-pages/media/favicons/wetransfer-com-favicon-bc5b180f.png,WeTransfer
+telegram.org,10,0,8843671,3.5242,0.4774,,Telegram
+ionos.es,11,2,8771559,2.9097,0.3815,,
+acestream.org,12,0,8740038,1.0657,0.9533,,
+zoom.us,13,-2,8628514,2.3336,0.4489,https://static.semrush.com/power-pages/media/favicons/zoom-us-favicon-6216d0f4.ico,Zoom
+ilovepdf.com,14,0,5928699,3.5908,0.2709,https://static.semrush.com/power-pages/media/favicons/ilovepdf-com-favicon-e7f31a42.png,iLovePDF
+aeolservice.es,15,6,5522138,14.701,0.0781,,
+dropbox.com,16,-1,5265534,1.9358,0.5959,https://static.semrush.com/power-pages/media/favicons/dropbox-com-favicon-5346f07d.png,Dropbox
+imgur.com,17,0,5228284,1.621,0.7064,https://static.semrush.com/power-pages/media/favicons/imgur-com-favicon-c0c62393.png,Imgur
+onelink.to,18,2,4806973,1.2743,0.8023,,
+uptodown.com,19,4,4399615,3.1681,0.3122,https://static.semrush.com/power-pages/media/favicons/uptodown-com-favicon-55d57fe9.ico,Uptodown
+stackoverflow.com,20,-4,4397826,1.2888,0.83,https://static.semrush.com/power-pages/media/favicons/stackoverflow-com-favicon-d2a17223.ico,Stack Overflow

@@ -1,0 +1,21 @@
+id,position,change,visits,pages_per_visit,bounce_rate,favicon,brand_name
+live.com,1,0,126562051,3.0904,0.3512,,
+office.com,2,0,121580931,2.0077,0.5878,https://static.semrush.com/power-pages/media/favicons/office-com-favicon-8f211ea6.ico,SmartSystem
+outlook.com,3,0,50007146,1.5307,0.7174,https://static.semrush.com/power-pages/media/favicons/outlook-com-favicon-ac16fa7f.ico,Outlook
+wordpress.com,4,0,14227597,1.6548,0.7607,https://static.semrush.com/power-pages/media/favicons/wordpress-com-favicon-f9797465.png,WordPress
+dropbox.com,5,0,11867961,2.2397,0.5757,https://static.semrush.com/power-pages/media/favicons/dropbox-com-favicon-5346f07d.png,Dropbox
+stripe.com,6,1,10572208,1.7088,0.682,,
+stackoverflow.com,7,-1,9521114,1.3068,0.8381,https://static.semrush.com/power-pages/media/favicons/stackoverflow-com-favicon-d2a17223.ico,Stack Overflow
+wetransfer.com,8,0,8884208,1.7448,0.6425,https://static.semrush.com/power-pages/media/favicons/wetransfer-com-favicon-bc5b180f.png,WeTransfer
+trello.com,9,9,6122838,1.8196,0.6295,https://static.semrush.com/power-pages/media/favicons/trello-com-favicon-18746ed5.png,Trello
+hotmail.com,10,7,5910691,1.1651,0.8738,,Hotmail
+y2mate.is,11,14,5877631,1.5857,0.728,,
+atlassian.net,12,1,5873005,4.1479,0.3913,,
+auth0.com,13,-1,5857065,1.8979,0.5008,,
+icloud.com,14,-4,5312737,1.4795,0.7321,https://static.semrush.com/power-pages/media/favicons/icloud-com-favicon-91892d3d.png,iCloud
+brave.com,15,-6,5275400,2.8321,0.4957,,
+qualtrics.com,16,12,5145100,1.3595,0.8264,https://static.semrush.com/power-pages/media/favicons/qualtrics-com-favicon-0a491c21.png,Qualtrics
+okta.com,17,-2,5039758,1.9626,0.5579,,Okta
+speedtest.net,18,5,4990149,1.4045,0.7499,https://static.semrush.com/power-pages/media/favicons/speedtest-net-favicon-b9ced8c4.png,Speedtest
+mandrillapp.com,19,-8,4759192,1.2772,0.8363,,
+truelayer.com,20,4,4731811,1.5779,0.6853,,

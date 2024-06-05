@@ -1,0 +1,21 @@
+id,position,change,visits,pages_per_visit,bounce_rate,favicon,brand_name
+openai.com,1,0,70141201,1.7362,0.6516,,
+office.com,2,0,39708599,1.6978,0.6023,https://static.semrush.com/power-pages/media/favicons/office-com-favicon-8f211ea6.ico,SmartSystem
+canva.com,3,0,36828618,2.7701,0.4068,,Canva
+zoom.us,4,0,19314339,2.2932,0.5,https://static.semrush.com/power-pages/media/favicons/zoom-us-favicon-6216d0f4.ico,Zoom
+discord.com,5,1,14388794,2.2249,0.5246,https://static.semrush.com/power-pages/media/favicons/discord-com-favicon-07dca80a.ico,Discord
+paypal.com,6,-1,13149451,3.1879,0.3203,https://static.semrush.com/power-pages/media/favicons/paypal-com-favicon-ed31bc43.png,PayPal
+adobe.com,7,1,13148788,4.2765,0.6015,https://static.semrush.com/power-pages/media/favicons/adobe-com-favicon-9940bec6.png,Adobe
+github.com,8,1,11106530,1.8429,0.6902,https://static.semrush.com/power-pages/media/favicons/github-com-favicon-346e0947.png,GitHub
+ilovepdf.com,9,1,9482131,3.9879,0.271,https://static.semrush.com/power-pages/media/favicons/ilovepdf-com-favicon-e7f31a42.png,iLovePDF
+wordpress.com,10,-3,9429039,1.5653,0.8142,https://static.semrush.com/power-pages/media/favicons/wordpress-com-favicon-f9797465.png,WordPress
+wetransfer.com,11,1,7551762,1.8641,0.6525,https://static.semrush.com/power-pages/media/favicons/wetransfer-com-favicon-bc5b180f.png,WeTransfer
+uptodown.com,12,-1,7486411,3.5139,0.261,https://static.semrush.com/power-pages/media/favicons/uptodown-com-favicon-55d57fe9.ico,Uptodown
+telegram.org,13,0,7145003,1.987,0.4929,,Telegram
+flvto.com.mx,14,5,5014262,4.6502,0.3661,,
+ssstwitter.com,15,-1,4768661,1.4103,0.7867,,
+dropbox.com,16,1,4266020,2.1214,0.5836,https://static.semrush.com/power-pages/media/favicons/dropbox-com-favicon-5346f07d.png,Dropbox
+softonic.com,17,-2,4180655,2.7642,0.4465,https://static.semrush.com/power-pages/media/favicons/softonic-com-favicon-259c9304.png,Softonic
+android.com,18,3,3861467,1.2724,0.8244,,
+stackoverflow.com,19,4,3834709,1.2974,0.8192,https://static.semrush.com/power-pages/media/favicons/stackoverflow-com-favicon-d2a17223.ico,Stack Overflow
+medallia.com,20,2,3577144,1.6453,0.589,https://static.semrush.com/power-pages/media/favicons/medallia-com-favicon-d5379ef3.ico,Medallia

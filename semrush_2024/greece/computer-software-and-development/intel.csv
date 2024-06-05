@@ -1,0 +1,21 @@
+id,position,change,visits,pages_per_visit,bounce_rate,favicon,brand_name
+openai.com,1,0,6803280,1.8165,0.6232,,
+wordpress.com,2,1,3217673,1.5741,0.7357,https://static.semrush.com/power-pages/media/favicons/wordpress-com-favicon-f9797465.png,WordPress
+wetransfer.com,3,1,3137094,2.0284,0.625,https://static.semrush.com/power-pages/media/favicons/wetransfer-com-favicon-bc5b180f.png,WeTransfer
+office.com,4,-2,3089032,2.0704,0.6323,https://static.semrush.com/power-pages/media/favicons/office-com-favicon-8f211ea6.ico,SmartSystem
+discord.com,5,1,2317240,2.1801,0.6477,https://static.semrush.com/power-pages/media/favicons/discord-com-favicon-07dca80a.ico,Discord
+paypal.com,6,1,2297601,3.4754,0.2655,https://static.semrush.com/power-pages/media/favicons/paypal-com-favicon-ed31bc43.png,PayPal
+contactpigeon.com,7,-2,2083836,1.3396,0.8001,,
+github.com,8,0,1747150,1.8473,0.665,https://static.semrush.com/power-pages/media/favicons/github-com-favicon-346e0947.png,GitHub
+zoom.us,9,0,1548690,2.039,0.5179,https://static.semrush.com/power-pages/media/favicons/zoom-us-favicon-6216d0f4.ico,Zoom
+viber.com,10,3,1386213,1.2388,0.8185,,Viber
+messenger.com,11,-1,1359459,2.3369,0.5289,https://static.semrush.com/power-pages/media/favicons/messenger-com-favicon-d2850d31.ico,Messenger
+canva.com,12,-1,1176088,3.7959,0.3131,,Canva
+adobe.com,13,-1,1160296,2.025,0.654,https://static.semrush.com/power-pages/media/favicons/adobe-com-favicon-9940bec6.png,Adobe
+epsilonnet.gr,14,3,875192,3.5926,0.3822,,
+weebly.com,15,4,860393,1.9056,0.6891,,Weebly
+ilovepdf.com,16,-2,823989,4.6422,0.211,https://static.semrush.com/power-pages/media/favicons/ilovepdf-com-favicon-e7f31a42.png,iLovePDF
+stackoverflow.com,17,1,666385,1.3048,0.8193,https://static.semrush.com/power-pages/media/favicons/stackoverflow-com-favicon-d2a17223.ico,Stack Overflow
+dropbox.com,18,-2,665953,1.8438,0.6604,https://static.semrush.com/power-pages/media/favicons/dropbox-com-favicon-5346f07d.png,Dropbox
+webex.com,19,-4,625803,2.4775,0.4414,https://static.semrush.com/power-pages/media/favicons/webex-com-favicon-8440ab53.png,Webex
+medium.com,20,3,594057,1.1817,0.8975,https://static.semrush.com/power-pages/media/favicons/medium-com-favicon-18758d01.png,Medium

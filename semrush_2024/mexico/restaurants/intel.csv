@@ -1,0 +1,21 @@
+id,position,change,visits,pages_per_visit,bounce_rate,favicon,brand_name
+ubereats.com,1,0,3977547,1.7346,0.7257,,Uber Eats
+dominos.com.mx,2,1,2341141,2.0966,0.5354,,
+kfc.com.mx,3,-1,2240562,1.5318,0.7438,,
+rappi.com.mx,4,1,2199545,1.9919,0.7093,,
+mcdonalds.com.mx,5,-1,1225047,1.4477,0.6785,,
+cazaofertas.com.mx,6,1,1014262,1.7432,0.5778,,
+carlsjr.com.mx,7,4,797190,2.3756,0.5095,,
+didi-food.com,8,-2,771676,1.2509,0.8372,,
+littlecaesars.com,9,-1,563728,1.5205,0.7278,,Little Caesars
+pizzahut.com.mx,10,0,515090,1.3103,0.7462,,
+alsea.net,11,14,463671,2.4715,0.731,,
+vips.com.mx,12,1,459452,4.2956,0.4371,,
+chilis.com.mx,13,1,373602,3.3233,0.4759,,
+wansoft.net,14,4,334325,2.57,0.2695,,
+lasalitas.com,15,4,317404,1.3691,0.7783,,
+acomerclub.com.mx,16,0,265149,1.0832,0.9168,,
+mexicancupid.com,17,-8,233815,4.7225,0.3185,,
+opentable.com,18,0,232683,1.2798,0.829,,
+burgerking.com.mx,19,-7,222043,1.5115,0.6759,,
+subway.com,20,0,221459,2.3812,0.5592,,

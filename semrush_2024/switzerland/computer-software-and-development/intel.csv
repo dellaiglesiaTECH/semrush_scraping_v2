@@ -1,0 +1,21 @@
+id,position,change,visits,pages_per_visit,bounce_rate,favicon,brand_name
+openai.com,1,0,10754248,1.7508,0.6667,,
+office.com,2,0,7056363,1.8117,0.6233,https://static.semrush.com/power-pages/media/favicons/office-com-favicon-8f211ea6.ico,SmartSystem
+github.com,3,0,3249086,2.2261,0.6121,https://static.semrush.com/power-pages/media/favicons/github-com-favicon-346e0947.png,GitHub
+paypal.com,4,0,2520174,3.1749,0.2819,https://static.semrush.com/power-pages/media/favicons/paypal-com-favicon-ed31bc43.png,PayPal
+stackoverflow.com,5,3,2208823,1.3513,0.8245,https://static.semrush.com/power-pages/media/favicons/stackoverflow-com-favicon-d2a17223.ico,Stack Overflow
+zoom.us,6,1,1926314,2.3214,0.4234,https://static.semrush.com/power-pages/media/favicons/zoom-us-favicon-6216d0f4.ico,Zoom
+adobe.com,7,2,1882017,3.0107,0.5327,https://static.semrush.com/power-pages/media/favicons/adobe-com-favicon-9940bec6.png,Adobe
+canva.com,8,-2,1777928,3.5169,0.3002,,Canva
+discord.com,9,-4,1634376,1.9865,0.5958,https://static.semrush.com/power-pages/media/favicons/discord-com-favicon-07dca80a.ico,Discord
+atlassian.net,10,5,1311323,4.0067,0.4334,,
+dropbox.com,11,1,1091491,2.1482,0.5961,https://static.semrush.com/power-pages/media/favicons/dropbox-com-favicon-5346f07d.png,Dropbox
+shopify.com,12,-2,1083120,3.6973,0.4416,https://static.semrush.com/power-pages/media/favicons/shopify-com-favicon-4243a4e2.jpg,Shopify
+chip.de,13,0,1067984,1.6461,0.7276,https://static.semrush.com/power-pages/media/favicons/chip-de-favicon-3fcd6a7d.png,CHIP
+telegram.org,14,2,939150,2.0896,0.4625,,Telegram
+wetransfer.com,15,-1,892249,1.709,0.6528,https://static.semrush.com/power-pages/media/favicons/wetransfer-com-favicon-bc5b180f.png,WeTransfer
+wordpress.com,16,-5,847688,1.655,0.7668,https://static.semrush.com/power-pages/media/favicons/wordpress-com-favicon-f9797465.png,WordPress
+icloud.com,17,0,834719,1.529,0.7219,https://static.semrush.com/power-pages/media/favicons/icloud-com-favicon-91892d3d.png,iCloud
+medium.com,18,3,791058,1.3661,0.8295,https://static.semrush.com/power-pages/media/favicons/medium-com-favicon-18758d01.png,Medium
+imgur.com,19,3,783929,1.3845,0.7333,https://static.semrush.com/power-pages/media/favicons/imgur-com-favicon-c0c62393.png,Imgur
+zendesk.com,20,0,725392,2.937,0.6015,,Zendesk

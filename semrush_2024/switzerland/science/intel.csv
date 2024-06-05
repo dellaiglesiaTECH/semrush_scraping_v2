@@ -1,0 +1,21 @@
+id,position,change,visits,pages_per_visit,bounce_rate,favicon,brand_name
+google.ch,1,0,28256292,3.593,0.324,,Google China
+ethz.ch,2,0,1838648,5.4501,0.3958,,
+uzh.ch,3,0,1829175,2.9046,0.5003,,
+epfl.ch,4,0,1285342,4.0187,0.3254,,
+sciencedirect.com,5,0,571168,1.5991,0.7029,,ScienceDirect
+unibe.ch,6,0,482376,4.5249,0.4109,,
+studyflix.de,7,1,389246,1.164,0.881,,
+overleaf.com,8,-1,327794,2.7995,0.3981,,Overleaf
+cern.ch,9,3,274835,5.3816,0.3154,,
+arxiv.org,10,0,246941,1.5969,0.7664,,
+elsevier.com,11,0,196005,1.749,0.5742,https://static.semrush.com/power-pages/media/favicons/elsevier-com-favicon-c0e62f50.png,Elsevier
+wiley.com,12,-3,182587,1.5195,0.6815,,John Wiley & Sons
+link.ch,13,1,113042,1.5963,0.6172,,
+mdpi.com,14,2,92725,1.7501,0.6193,,
+ti8m.ch,15,13,90965,23.354,0.1327,,
+rero.ch,16,9,81551,4.0172,0.4911,,
+usp.br,17,-4,70587,3.4941,0.085,,
+understandingwar.org,18,-3,66799,1.2355,0.7645,,
+phys.org,19,4,66135,1.288,0.8395,,
+orcid.org,20,6,63865,1.4559,0.6793,,

@@ -1,0 +1,21 @@
+id,position,change,visits,pages_per_visit,bounce_rate,favicon,brand_name
+openai.com,1,0,12670362,1.6905,0.6829,,
+office.com,2,0,11228968,1.9521,0.6365,https://static.semrush.com/power-pages/media/favicons/office-com-favicon-8f211ea6.ico,SmartSystem
+stripe.com,3,0,6044829,1.6345,0.8097,,
+paypal.com,4,1,3760985,3.1385,0.2848,https://static.semrush.com/power-pages/media/favicons/paypal-com-favicon-ed31bc43.png,PayPal
+discord.com,5,1,3699815,1.7981,0.6732,https://static.semrush.com/power-pages/media/favicons/discord-com-favicon-07dca80a.ico,Discord
+messenger.com,6,-2,3467281,1.8339,0.6253,https://static.semrush.com/power-pages/media/favicons/messenger-com-favicon-d2850d31.ico,Messenger
+canva.com,7,0,3029823,3.3927,0.3353,,Canva
+wetransfer.com,8,0,2923165,2.0729,0.5724,https://static.semrush.com/power-pages/media/favicons/wetransfer-com-favicon-bc5b180f.png,WeTransfer
+github.com,9,0,2658845,1.9907,0.6639,https://static.semrush.com/power-pages/media/favicons/github-com-favicon-346e0947.png,GitHub
+onelink.to,10,0,2452374,1.4444,0.7723,,
+wordpress.com,11,1,2156486,2.6476,0.7047,https://static.semrush.com/power-pages/media/favicons/wordpress-com-favicon-f9797465.png,WordPress
+adobe.com,12,-1,1951588,2.0911,0.5667,https://static.semrush.com/power-pages/media/favicons/adobe-com-favicon-9940bec6.png,Adobe
+snapchat.com,13,3,1582243,2.9978,0.4532,,
+stackoverflow.com,14,0,1414093,1.2113,0.8704,https://static.semrush.com/power-pages/media/favicons/stackoverflow-com-favicon-d2a17223.ico,Stack Overflow
+atlassian.net,15,-2,1377618,3.2444,0.4614,,
+discordapp.com,16,-1,1313119,1.9565,0.7333,,
+dropbox.com,17,2,1123136,2.0127,0.6204,https://static.semrush.com/power-pages/media/favicons/dropbox-com-favicon-5346f07d.png,Dropbox
+myprotime.eu,18,0,1103248,2.6749,0.1617,,
+zoom.us,19,1,957696,2.2922,0.4626,https://static.semrush.com/power-pages/media/favicons/zoom-us-favicon-6216d0f4.ico,Zoom
+imgur.com,20,-3,855148,1.54,0.7433,https://static.semrush.com/power-pages/media/favicons/imgur-com-favicon-c0c62393.png,Imgur

@@ -1,0 +1,21 @@
+id,position,change,visits,pages_per_visit,bounce_rate,favicon,brand_name
+sciencedirect.com,1,0,37218213,1.5102,0.7724,,ScienceDirect
+wiley.com,2,1,18749984,2.242,0.5968,,John Wiley & Sons
+space.com,3,-1,15951407,1.1976,0.8748,,
+elsevier.com,4,0,13790919,3.0766,0.491,https://static.semrush.com/power-pages/media/favicons/elsevier-com-favicon-c0e62f50.png,Elsevier
+phys.org,5,0,12239477,1.2693,0.8636,,
+overleaf.com,6,5,9987290,2.6204,0.4019,,Overleaf
+scitechdaily.com,7,-1,9167356,1.5596,0.7096,,
+mdpi.com,8,1,6053386,1.334,0.8454,,
+census.gov,9,-2,5997802,5.1657,0.7082,,
+arxiv.org,10,-2,4686165,1.5814,0.733,,
+energy.gov,11,-1,4158314,1.3723,0.7919,,
+doi.org,12,2,3939790,1.2797,0.8173,,
+newscientist.com,13,-1,3923773,1.1701,0.8979,,
+understandingwar.org,14,7,3535769,1.8853,0.4097,,
+caltech.edu,15,-2,2988764,2.4224,0.5352,,
+semanticscholar.org,16,1,2955901,1.2312,0.8456,,
+brookings.edu,17,-1,2531874,1.168,0.8937,,
+planetary.org,18,4,2320965,1.0731,0.9486,,
+plos.org,19,4,2212796,1.543,0.6929,,
+pnas.org,20,-1,1728671,1.2686,0.8415,,

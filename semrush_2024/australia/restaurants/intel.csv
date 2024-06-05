@@ -1,0 +1,21 @@
+id,position,change,visits,pages_per_visit,bounce_rate,favicon,brand_name
+dominos.com.au,1,0,3729890,1.8112,0.5699,,
+ubereats.com,2,1,2829779,2.3088,0.6023,,Uber Eats
+doordash.com,3,1,2554314,3.43,0.545,,DoorDash
+menulog.com.au,4,1,2170579,4.106,0.4991,,
+mcdonalds.com.au,5,-3,1940148,2.7814,0.4355,,
+kfc.com.au,6,0,1843224,2.8853,0.4084,,
+nowbookit.com,7,1,1431843,1.1552,0.8849,,
+broadsheet.com.au,8,-1,1172938,1.847,0.6596,,
+frugalfeeds.com.au,9,2,1128791,1.4406,0.7413,,
+opentable.com.au,10,0,952811,1.5537,0.7061,,
+pizzahut.com.au,11,-2,848525,1.525,0.6999,,
+grilld.com.au,12,2,796332,3.4176,0.4825,,
+hungryjacks.com.au,13,0,750890,2.3755,0.4936,,
+delicious.com.au,14,-2,730433,1.6219,0.7127,,
+redrooster.com.au,15,0,622973,1.6786,0.6956,,
+nandos.com.au,16,8,454477,1.2936,0.8555,,
+oporto.com.au,17,2,349079,4.1426,0.4024,,
+marionskitchen.com,18,0,327896,1.3132,0.8787,,
+opentable.com,19,3,275985,2.5489,0.6058,,
+perthisok.com,20,0,274711,1.1893,0.8431,,

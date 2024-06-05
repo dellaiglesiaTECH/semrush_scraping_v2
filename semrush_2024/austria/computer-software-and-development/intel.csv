@@ -1,0 +1,21 @@
+id,position,change,visits,pages_per_visit,bounce_rate,favicon,brand_name
+openai.com,1,0,7501376,1.7895,0.6269,,
+paypal.com,2,0,4009969,3.2241,0.246,https://static.semrush.com/power-pages/media/favicons/paypal-com-favicon-ed31bc43.png,PayPal
+office.com,3,0,3761980,2.0046,0.5965,https://static.semrush.com/power-pages/media/favicons/office-com-favicon-8f211ea6.ico,SmartSystem
+github.com,4,1,2145781,2.2183,0.6485,https://static.semrush.com/power-pages/media/favicons/github-com-favicon-346e0947.png,GitHub
+chip.de,5,-1,2126237,1.606,0.7521,https://static.semrush.com/power-pages/media/favicons/chip-de-favicon-3fcd6a7d.png,CHIP
+zoom.us,6,1,1634489,2.5082,0.3836,https://static.semrush.com/power-pages/media/favicons/zoom-us-favicon-6216d0f4.ico,Zoom
+discord.com,7,5,1631856,1.8988,0.6425,https://static.semrush.com/power-pages/media/favicons/discord-com-favicon-07dca80a.ico,Discord
+canva.com,8,1,1625733,3.5539,0.2943,,Canva
+stackoverflow.com,9,-1,1257132,1.1955,0.8892,https://static.semrush.com/power-pages/media/favicons/stackoverflow-com-favicon-d2a17223.ico,Stack Overflow
+adobe.com,10,0,1154401,2.3505,0.5474,https://static.semrush.com/power-pages/media/favicons/adobe-com-favicon-9940bec6.png,Adobe
+startpage.com,11,-5,916594,3.3846,0.2797,,
+atlassian.net,12,6,878224,4.0159,0.3454,,
+dropbox.com,13,1,852520,2.1331,0.5815,https://static.semrush.com/power-pages/media/favicons/dropbox-com-favicon-5346f07d.png,Dropbox
+heise.de,14,-3,846686,2.342,0.5921,,
+telegram.org,15,1,797872,2.1171,0.452,,Telegram
+wetransfer.com,16,-3,782398,1.7106,0.6184,https://static.semrush.com/power-pages/media/favicons/wetransfer-com-favicon-bc5b180f.png,WeTransfer
+shopify.com,17,5,626598,4.0529,0.444,https://static.semrush.com/power-pages/media/favicons/shopify-com-favicon-4243a4e2.jpg,Shopify
+wordpress.com,18,-3,621513,2.0139,0.7216,https://static.semrush.com/power-pages/media/favicons/wordpress-com-favicon-f9797465.png,WordPress
+computerbild.de,19,-2,599698,1.3145,0.8226,https://static.semrush.com/power-pages/media/favicons/www-computerbild-de-favicon-25c52bf7.jpg,COMPUTER BILD
+discordapp.com,20,1,578576,2.1326,0.695,,
