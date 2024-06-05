@@ -1,0 +1,54 @@
+import os
+from bs4 import BeautifulSoup
+
+# Ruta del directorio que contiene los archivos HTML
+directorio_html = 'HTML'
+archivo_resultados = 'resultados_cookies.txt'
+
+# Función para analizar un archivo HTML
+def analizar_html(ruta_archivo):
+    with open(ruta_archivo, 'r', encoding='utf-8') as archivo:
+        contenido = archivo.read()
+    soup = BeautifulSoup(contenido, 'html.parser')
+    
+    # <script> que podrían contener cookies de terceros
+    scripts = soup.find_all('script')
+    cookies_terceros = []
+    for script in scripts:
+        if script.attrs.get('src'):
+            src = script.attrs.get('src')
+            if 'cookie' in src or 'analytics' in src or 'tracking' in src:
+                cookies_terceros.append(src)
+    print(cookies_terceros)
+    return cookies_terceros
+
+def guardar_resultados_en_archivo(resultados, nombre_archivo):
+    with open(nombre_archivo, 'w', encoding='utf-8') as archivo:
+        for archivo_html, cookies in resultados.items():
+            archivo.write(f"Archivo: {archivo_html}\n")
+            for cookie in cookies:
+                archivo.write(f" - Cookie de tercero encontrada: {cookie}\n")
+            archivo.write("\n")
+
+# Función para analizar todos los archivos en el directorio
+def analizar_directorio(directorio):
+    resultados = {}
+    for archivo in os.listdir(directorio):
+        if archivo.endswith('.html'):
+            ruta_archivo = os.path.join(directorio, archivo)
+            cookies = analizar_html(ruta_archivo)
+            if cookies:
+                resultados[archivo] = cookies
+    
+    return resultados
+
+# Ejecutar el análisis
+resultados = analizar_directorio(directorio_html)
+
+# Mostrar los resultados
+for archivo, cookies in resultados.items():
+        print(f"Archivo: {archivo}")
+        for cookie in cookies:
+            print(f" - Cookie de tercero encontrada: {cookie}")
+
+guardar_resultados_en_archivo(resultados, archivo_resultados)
